@@ -50,10 +50,10 @@ def find(symbol):
 
             lbl2.configure(text=f"{price}")
             lbl3.configure(text=f"{s}")
-            lbl4.configure(text='Цена \n За 7 дней')
+            lbl4.configure(text='Изменение цены \n За 7 дней')
             lbl5.configure(text= f"{price2}")
             lbl6.configure(text= f"{price3}")
-            lbl7.configure(text='Цена \n За 30 дней')
+            lbl7.configure(text='Изменение цены \n За 30 дней')
             lbl8.configure(text='Цена \n')
 
 
